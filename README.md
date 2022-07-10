@@ -6,6 +6,7 @@ Repository containing the C# scripts for a 2D block breaker game, made with C# a
 - 📽 [Demo](https://github.com/Ghazalmir/Block-Breaker#-demo)
 - ⚙️ [Features](https://github.com/Ghazalmir/Block-Breaker#%EF%B8%8F-features)
 - 🕹 [Making Levels](https://github.com/Ghazalmir/Block-Breaker#-making-levels)
+- 📝 [Project Takeaways](https://github.com/Ghazalmir/Block-Breaker#-project-takeaways)
 - 🔒 [License](https://github.com/Ghazalmir/Block-Breaker#-license)
 
 ## 🚀 Overview
@@ -21,6 +22,10 @@ Video under construction 🛠
 
 ## 🕹 Making Levels
 Tutorial under construction 🛠
+
+## 📝 Project Takeaways
+- C# basics (basics of the language, and how to use it with Unity)
+- Unity basics (setting up the scene, prefabs, physics, writing scripts, level management, audios, etc)
 
 ## 🔒 License
 The source code for the Block Breaker is licensed under the MIT license, which can be found [here](https://github.com/Ghazalmir/Block-Breaker/blob/main/LICENSE).
